@@ -13,6 +13,7 @@ function search(a, x) {
 
 var poets = search(arr,'李白');
 console.log(poets);
+
 </script>
 
 <template>
